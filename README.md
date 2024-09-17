@@ -1,0 +1,1 @@
+I used basic HTML, CSS and JavaScript to build this game.
