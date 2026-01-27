@@ -4,7 +4,7 @@ A classic **Tic Tac Toe game** built using **HTML, CSS, and Vanilla JavaScript**
 The project focuses on clean UI, simple game logic, and responsive design.  
 It is deployed on **Vercel** for fast and smooth performance.
 
-🌐 **Live Demo:** https://your-vercel-link.vercel.app/
+🌐 **Live Demo:** https://tic-tac-toe-game-using-html-css-and-omega.vercel.app/
 
 ---
 
